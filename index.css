@@ -120,12 +120,17 @@ body {
       text-align: center;
       font-size: 20px;
     }
+    .container1 {
+        display: block;
+        width: 102%;
+    }
 
     .container2 {
         display: block;
         width: 80%;
       
     }
+
     .telefone  {
         width: 100%;
     }
@@ -139,5 +144,4 @@ body {
     }
     
 }
-  
   
